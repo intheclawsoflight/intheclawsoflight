@@ -12,7 +12,8 @@ html, body {
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Consolas, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
     /* font-size: 0.95rem; */
 }
 
@@ -75,16 +76,27 @@ hr {
 /* ////////////////////////////////////////////////// */
 /* HOME PAGE */
 /* ////////////////////////////////////////////////// */
+
+.vertical-box {
+    width: 280px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: transparent;
+    border: 1px solid gray;
+}
+
 .header {
-    background-color: #8b8680;
+    background-color: gray;
     /* padding: 10px 15px; */
+    /* height: 10px;
+    width: 500px; */
     color: #fff;
     margin-top: 25px;
     /* clip-path: polygon(0 0, 60% 0, 65% 50%, 60% 100%, 0 100%); */
 }
 
 .header a {
-    color: #000000;
+    color: #ffffff;
     transition: all 0.4s;
 } 
 
