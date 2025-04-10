@@ -12,7 +12,9 @@ html, body {
 }
 
 body {
-    font-family:Consolas, monospace;
+    font-family:'Courier New', Courier, monospace;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 14px;
     /* font-family: 'Courier New', Courier, monospace; */
     /* font-size: 0.95rem; */
 }
