@@ -13,9 +13,9 @@ html, body {
 
 body {
     /* font-family:'Courier New', Courier, monospace; */
-    font-family:'Verdana', Verdana, Geneva, Tahoma, sans-serif;
-    /* font-family: 'Times New Roman', Times, serif; */
-    font-size: 14px;
+    /* font-family:'Verdana', Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
     /* font-family: 'Courier New', Courier, monospace; */
     /* font-size: 0.95rem; */
 }
@@ -101,16 +101,16 @@ hr {
 .header a {
     color: #ffffff;
     transition: all 0.4s;
-} 
+}
 
 .header a:hover {
     /* text-decoration: underline; */
     /* opacity: 0.4; */
-}  
+}
 
 .header a:active {
     color: #ffffff;
-}  
+}
 
 .header a:visited {
     color: white;
@@ -135,11 +135,11 @@ hr {
 
 .menu__item a {
     color: #000;
-    padding: 15px 20px;
+    padding: 20px 20px;
     /* fixes anchor tag padding */
     display: flex;
     align-content: center;
-    transition: all 1s;
+    /* transition: all 1s; */
 }
 
 .menu__item a:hover {
