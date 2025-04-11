@@ -12,9 +12,10 @@ html, body {
 }
 
 body {
-    font-family:'Courier New', Courier, monospace;
+    /* font-family:'Courier New', Courier, monospace; */
+    font-family:'Verdana', Verdana, Geneva, Tahoma, sans-serif;
     /* font-family: 'Times New Roman', Times, serif; */
-    font-size: 12px;
+    font-size: 14px;
     /* font-family: 'Courier New', Courier, monospace; */
     /* font-size: 0.95rem; */
 }
